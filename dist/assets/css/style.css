@@ -1,0 +1,21 @@
+
+h2 {
+    height: 3rem;
+    margin: auto;
+}
+
+.icon {
+    height: 3rem;
+}
+
+.man-text {
+    border: 1px red solid;
+}
+
+.eng-text {
+    border: 1px blue solid;    
+}
+
+.int-text{
+    border: 1px green solid;
+}
