@@ -37,7 +37,7 @@ In the terminal, type "npm start" (without quotes) to run the app. The app will 
 ![image](./assets/consoleUsage.jpg)
 App in use
 
-Video displaying the use of the app as well as testing can be found at: https://github.com/AGarraffa/ultimate-team-builder/blob/main/assets/Team-Builder-App-Usage.mp4.
+Video displaying the use of the app as well as testing can be found at: https://drive.google.com/file/d/1POLawERxMsWBaK5uDPcPfsIOGsO5GrR3/preview
 
 App can be found at: https://github.com/AGarraffa/ultimate-team-builder.
 
