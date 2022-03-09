@@ -31,11 +31,15 @@ Navigate your browser to https://github.com/AGarraffa/ultimate-team-builder and 
     
 ---
 ## Usage
-In the terminal, type "npm start" (without quotes) to run the app. The app will then present the user with a series of prompts for information pertaining to a manager, engineer, and intern. Upon completion the app will generate index.html within the /dist directory.
+In the terminal, type "npm start" (without quotes) to run the app. The app will then present the user with a series of prompts for information pertaining to a manager, engineer, and intern. Upon completion the app will generate index.html within the /dist directory. 
 
 
 ![image](./assets/consoleUsage.jpg)
 App in use
+
+Video displaying the use of the app as well as testing can be found at: https://github.com/AGarraffa/ultimate-team-builder/blob/main/assets/Team-Builder-App-Usage.mp4.
+
+App can be found at: https://github.com/AGarraffa/ultimate-team-builder.
 
 ---
 ## Future Development
