@@ -12,7 +12,7 @@
 
 [Credits](#credits)
 
-[Dependencies](#dependencies)
+[Dependencies](#dependencies and libraries)
 
 [Questions](#questions)
 
