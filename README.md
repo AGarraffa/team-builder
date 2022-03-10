@@ -12,7 +12,7 @@
 
 [Credits](#credits)
 
-[Dependencies](#dependencies and libraries)
+[Dependencies](#dependencies/libraries)
 
 [Questions](#questions)
 
@@ -54,7 +54,7 @@ Currently the styling is the biggest issue. Continued work will be done to make 
 
 
 ---
-## Dependencies and Libraries
+## Dependencies/Libraries
 * inquirer 
 * jest 
 * materialize
