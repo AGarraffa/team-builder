@@ -54,9 +54,10 @@ Currently the styling is the biggest issue. Continued work will be done to make 
 
 
 ---
-## Dependencies
+## Dependencies and Libraries
 * inquirer 
 * jest 
+* materialize
 
 
 ---
